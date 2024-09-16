@@ -1,5 +1,7 @@
 # Projeto Accounts
 
+![Interface do Projeto Accounts](./terminal-accounts-print.png)
+
 ## Descrição
 
 O projeto **Accounts** é um simulador de sistema bancário desenvolvido em **Node.js**. Ele permite ao usuário realizar operações bancárias básicas através do terminal. As principais funcionalidades incluem a criação de contas, consulta de saldo, depósitos e saques.
